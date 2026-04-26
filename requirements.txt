@@ -1,0 +1,5 @@
+gspread
+oauth2client
+python-dotenv
+pyTelegramBotAPI
+web3
